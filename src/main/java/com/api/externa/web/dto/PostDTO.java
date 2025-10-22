@@ -1,5 +1,4 @@
 package com.api.externa.web.dto;
-
 import lombok.Data;
 
 @Data
